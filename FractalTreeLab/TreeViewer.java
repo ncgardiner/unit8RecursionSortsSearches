@@ -4,8 +4,8 @@ import javax.swing.*;
 
 public class TreeViewer 
 {
-    private final int WIDTH = 720;
-    private final int HEIGHT = 620;
+    private final int WIDTH = 1120;
+    private final int HEIGHT = 820;
 
     private JLabel titleLabel;
     private TreePanel drawing;
